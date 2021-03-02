@@ -2,9 +2,9 @@
   "tokens": [
       {
           "id": 0,
-          "description": "The first Senshi token",
+          "description": "The second Senshi token",
           "image": "https://i.ibb.co/hWPmFJj/nin1.png",
-          "name": "SenshiTokenOne"
+          "name": "SenshiTokenTwo"
       }
   ]
 }
